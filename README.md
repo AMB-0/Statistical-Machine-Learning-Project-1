@@ -16,9 +16,9 @@ The code included within this project correspond to an approach to the "Link Pre
 
 ### Files included within the project (zip file)
 
-├── **SML_Project1.ipynb**   			# Jupyter notebook including the project code wrote in python 
-├── **requirements.txt**  			        # File listing the python libraries required to run the code
-└── **README.md**					# README file of the project
+├── **SML_Project1.ipynb**   			# Jupyter notebook including the project code wrote in python
+├── **requirements.txt**  			# File listing the python libraries required to run the code
+└── **README.md**				# README file of the project
 
 
 
